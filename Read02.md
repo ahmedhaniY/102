@@ -11,7 +11,7 @@ But its recommended to use other softwares that have helpful feautres like:
 - Themes
   - Have a range of themes that help you visually and asthetically
   
-I personally liked atom for its dark theme and autocompletion.
+I personally liked [atom](https://atom.io/) for its dark theme and autocompletion.
 
 
 ## CLI commands
