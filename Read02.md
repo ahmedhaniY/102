@@ -18,11 +18,10 @@ I personally liked atom for its dark theme and autocompletion.
 
 Unlike Graphical operating systems like OS, ubnutu uses command lines in order to interact with the computer, this means its harder, but it gives you more control than before.
 
-```
-cd to change directiries
-mkdir to make folder
-touch to make file
-pwd to know current location
-ls to list files in current folder
-sudo to use root user
-```
+cd | change directiries
+-----------------------
+mkdir | make folder
+touch | make file
+pwd   | know current location
+ls    | list files in current folder
+sudo  | to use root user
