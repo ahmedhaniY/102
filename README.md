@@ -17,6 +17,7 @@ Using one # gives the largest header, and ## gives a smaller one, and so on till
 ####### is like <h6>
 ```
 
+
 ### Text
 
 You can make text bold and italic, and even combine between them both.
@@ -33,5 +34,13 @@ In order to make text *italic* you need to put it between one star on each side 
 #### *Italic and Bold*
 
 You can combine both ***Italic and bold*** by using the same method as before : `***text***`
+
+
+### Links and Images
+
+Markdown allows you to link images and URLs as well.
+
+#### Images <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/768px-Yin_yang.svg.png" alt="Yinyang" width="100"/>
+In order to embed an image, you need to use the following format: `![Alt Text](url)` 
 
 
