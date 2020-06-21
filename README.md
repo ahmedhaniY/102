@@ -40,7 +40,8 @@ You can combine both ***Italic and bold*** by using the same method as before : 
 
 Markdown allows you to link images and URLs as well.
 
-#### Images <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/768px-Yin_yang.svg.png" alt="Yinyang" width="100"/>
+#### Images <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/768px-Yin_yang.svg.png" alt="Yinyang" width="50"/>
 In order to embed an image, you need to use the following format: `![Alt Text](url)` 
 
-
+#### Links
+In order to [Link](https://ahyousef.github.io/reading-notes/) something you use : `[Content](URL)`
