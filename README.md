@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Ahmad's reading notes
 
-You can use the [editor on GitHub](https://github.com/Ahyousef/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this page, I will be noting down my journey learning markdown in github. I hope you find this pleasent to read and easy to follow.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Markdown
 
-### Markdown
+**Markdown** is an easy way to style and organize text on the web. Unlike HTML its quicker to author, and easier to learn. You can manipulate text in many ways, such as making it **bold**, *italic* and many more. As well as being able to add pictures and lists.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Bold
 
-```markdown
-Syntax highlighted code block
+In order to make text bold you need to put it between two stars on each side like this : `**text**`
 
-# Header 1
-## Header 2
-### Header 3
+#### *Italic*
 
-- Bulleted
-- List
+In order to make text italic you need to put it between one star on each side like this : `*text*`
 
-1. Numbered
-2. List
+#### *Italic and Bold*
 
-**Bold** and _Italic_ and `Code` text
+You can combine both ***Italic and bold*** by using the same method as before : `***text***'
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ahyousef/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
