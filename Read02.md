@@ -24,5 +24,5 @@ cd| change directiries
 mkdir| make folder
 touch| make file
 pwd| know current location
-ls| list files in current folder
+ls| list files in folder
 sudo| to use root user
