@@ -37,5 +37,16 @@ You can also group similar elements together, for exampe: payment methods should
 
 ## HTML5
 
+Elements in HTML act as containers, and they help us indentify what the purpose of this part of the code is gonna be, and also help us oragnize the HTML code.
+
 HTML5 has introduced new elements that act in place of `<div>` where you can still use it but it better to use the specefic element for the specefic purpose.
 
+```
+<article>
+<section>
+<figure>
+<footer>
+<header>
+```
+
+Older browsers might not support the new elements in HTML5, in order to overcome that these elements should be defined as block elements in the CSS, and incase that is unsupported, then javascript HTML need to be used.
