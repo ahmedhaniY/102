@@ -8,7 +8,7 @@ Hi, I am Ahmad Yousef, a technology and CS enthusiast, I come originally from Pa
 
 ## Table of contents
 
-Page | Description
+Description | Page
 ---- | -----------
 Markdown cheat sheet| [Markdown](Markdown.md)
 Growth vs fixed | [Growth mindset](Lab01b.md)
