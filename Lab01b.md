@@ -16,7 +16,7 @@ Learns from criticism | Ignores criticism
 Reach potential | Gives up early
 
 ## Reminder to myself
-1. Keep your goal infront of you
+1. Keep your goal infront of your eyes
 2. Remember your beginnings
 3. Record your achievments
 
