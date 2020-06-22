@@ -10,6 +10,8 @@ But its recommended to use other softwares that have helpful feautres like:
   - Gives each group a color, like tags/variables/commands
 - Themes
   - Have a range of themes that help you visually and asthetically
+- Extensions
+  - Offer a variety of extensions that eases the work
   
 I personally liked [atom](https://atom.io/) for its dark theme and autocompletion.
 
