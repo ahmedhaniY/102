@@ -7,7 +7,10 @@ In this page, I will be noting down my journey learning markdown in github. I ho
 Hi, I am Ahmad Yousef, a technology and CS enthusiast, I come originally from Palestine and currently live in Jordan. This will be the beginning of a lifetime journey.
 
 ## Table of contents
-1. [Markdown](Markdown.md)
-2. [Growth mindset](Lab01b.md)
-3. [Text editor](Read02.md)
-4. [Git Intro](Gitintro.md)
+
+Page | Description
+---- | -----------
+Markdown cheat sheet| [Markdown](Markdown.md)
+Growth vs fixed | [Growth mindset](Lab01b.md)
+What is a text editor? | [Text editor](Read02.md)
+Introduction to Git | [Git Intro](Gitintro.md)
