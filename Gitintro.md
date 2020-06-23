@@ -6,11 +6,11 @@ When working on a project, many versions are created, each containing their own 
 
 ### Development of Version Control
 
-Since projects have teams working on them, the need for way to be able to work at the same time emerged, which lead to the creation of Local Version Control Systems. Local VCS had the the data be stored on a physical hard disk.
+* Since projects have teams working on them, the need for way to be able to work at the same time emerged, which lead to the creation of Local Version Control Systems. Local VCS had the the data be stored on a physical hard disk.
 
-The next stage of VCS was the centralized system, where the data was stored on a single server that can be accessed by several clients, allowing the team members to be working on the same project at the same time.
+* The next stage of VCS was the centralized system, where the data was stored on a single server that can be accessed by several clients, allowing the team members to be working on the same project at the same time.
 
-Following the Centralized VCS, the distributed systems came. Programmmers all fear losing their work from a failure or an error in the system, which is what the distrubted system solves. Many backups are created to be saved on different servers.
+* Following the Centralized VCS, the distributed systems came. Programmmers all fear losing their work from a failure or an error in the system, which is what the distrubted system solves. Many backups are created to be saved on different servers.
 
 ## Git
 
