@@ -20,6 +20,8 @@
 
 #### Semantic markup
 
+![semantic](https://enlightsolution.com/wp-content/uploads/2019/06/pic-1-300x187.jpg)
+
 **Strong and emphasis** The use of `<strong> and <em>` shows that the content is important, and for emphasis it shows content in italic by default.
 
 **Quotation** When wanting to quote short quotes, one uses the element `<q>` but for longer blocky quotes one uses `<blackquote>` element.
@@ -77,3 +79,5 @@ Just like humans, the script needs to make decisions, think of it as when you ne
 The computer does a similar thing, by evaluating and executing statments, for example :
 <br>
 ` if (age >= 18) {enter = true}`
+
+![flowchart](https://www.syncfusion.com/products/essential-js2/control/images/diagram/flowchart.png)
