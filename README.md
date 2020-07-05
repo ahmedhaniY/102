@@ -1,4 +1,4 @@
-# Welcome to Ahmad's Code 201 Reading Notes
+# Welcome to Ahmad's Code 102 Reading Notes
 
 In this page, I will be noting down my journey learning markdown in github. I hope you find this pleasent to read and easy to follow.
 
@@ -19,4 +19,3 @@ Introduction to HTML | [HTML](Html.md)
 Introduction to CSS | [CSS](CSS.md)
 Introduction to Javascript | [Javascript 1](Javascript.md)
 Further Javascript | [Javascript 2](Javascript-2.md)
-HTML, CSS and Javascript | [Read 2](class-02.md)
